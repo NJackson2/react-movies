@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Movies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Happy Halloween! 🎃 
+
+See a demo at [https://horror-movies-nj.web.app]
 
 ## Available Scripts
 
