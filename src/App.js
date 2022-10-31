@@ -9,6 +9,7 @@ function App() {
     <div className="App">
         <Header />
         <MovieList />
+        {/* we will change - want to see changes */}
         <Footer />
     </div>
   );
